@@ -47,7 +47,7 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/tape_bottom" />
 
-            <net.micode.soundrecorder.WheelImageView
+            <id.ridon.soundrecorder.WheelImageView
                 android:id="@+id/wheel_left"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -56,7 +56,7 @@
                 android:layout_marginTop="60dip"
                 android:src="@drawable/wheel_left" />
 
-            <net.micode.soundrecorder.WheelImageView
+            <id.ridon.soundrecorder.WheelImageView
                 android:id="@+id/wheel_right"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -65,7 +65,7 @@
                 android:layout_marginTop="60dip"
                 android:src="@drawable/wheel_right" />
 
-            <net.micode.soundrecorder.WheelImageView
+            <id.ridon.soundrecorder.WheelImageView
                 android:id="@+id/wheel_small_left"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -74,7 +74,7 @@
                 android:layout_marginLeft="30dip"
                 android:src="@drawable/wheel_small_left" />
 
-            <net.micode.soundrecorder.WheelImageView
+            <id.ridon.soundrecorder.WheelImageView
                 android:id="@+id/wheel_small_right"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -102,7 +102,7 @@
                     android:focusable="true"
                     android:focusableInTouchMode="true" />
 
-                <net.micode.soundrecorder.RecordNameEditText
+                <id.ridon.soundrecorder.RecordNameEditText
                     android:id="@+id/file_name"
                     android:layout_width="220dip"
                     android:layout_height="25dip"

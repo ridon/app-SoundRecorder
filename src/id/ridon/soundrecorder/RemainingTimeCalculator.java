@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.micode.soundrecorder;
+package id.ridon.soundrecorder;
 
 import android.os.Environment;
 import android.os.StatFs;

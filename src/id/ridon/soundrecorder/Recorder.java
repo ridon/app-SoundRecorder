@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.micode.soundrecorder;
+package id.ridon.soundrecorder;
 
 import java.io.File;
 import java.io.IOException;

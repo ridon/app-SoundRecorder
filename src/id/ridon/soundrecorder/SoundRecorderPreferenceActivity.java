@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.micode.soundrecorder;
+package id.ridon.soundrecorder;
 
 import android.content.Context;
 import android.content.SharedPreferences;

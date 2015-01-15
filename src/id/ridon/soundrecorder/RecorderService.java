@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.micode.soundrecorder;
+package id.ridon.soundrecorder;
 
 import android.app.KeyguardManager;
 import android.app.Notification;
